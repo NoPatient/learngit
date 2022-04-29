@@ -1,3 +1,4 @@
 Hello, Git.
 I changed sth.
 I change something again.
+Change added.
