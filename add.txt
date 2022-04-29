@@ -2,3 +2,6 @@ Hello, Git.
 I changed sth.
 I change something again.
 Change added.
+
+Create a new branch is quickly.
+
